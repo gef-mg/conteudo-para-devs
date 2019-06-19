@@ -1,6 +1,6 @@
 ## Exemplos de uso de seletores no Stylus
 
-Com base na maneira de regras clean do Stylus, iremos ver alguns exemplos de seletores.
+Com base na maneira de regras clean do Stylus, iremos ver alguns exemplos de uso dos seletores.
 
 ### Caso-1 (Modelo simples)
 
