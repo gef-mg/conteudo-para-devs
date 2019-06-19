@@ -1,3 +1,5 @@
+![Logo-Stylus](stylus-logo.png)
+
 # Sobre O Stylus
 
 O Stylus é um pré-processador que tem como objetivo principal gerar folhas de estilo organizadas. Para usa-lo é necessário ter em sua máquina instalado NodeJS e o próprio Stylus.
