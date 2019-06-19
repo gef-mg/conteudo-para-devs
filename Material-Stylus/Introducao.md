@@ -20,3 +20,31 @@ body{
     background-color: #333;
 }
 ```
+
+### Maneiras de escrita com Stylus
+
+No Stylus você pode escrever de maneira simples, baseada no modelo do Sass ou até mesmo na maneira “clean” sem as chaves os dois pontos e ponto e vírgula, para que fique claro abaixo exemplos das formas citadas.
+
+##### Maneira simples
+
+```Stylus
+h1{font-size: 1rem;}
+h1 span{font-size: 0.5rem;}
+```
+##### Maneira com base no Sass
+```Stylus
+h1{
+    font-size: 1rem;
+    span{
+        font-size: 0.5rem;
+    }
+}
+```
+##### Maneira clean
+```Stylus
+h1
+    font-size 1rem
+    span
+        font-size 0.5rem
+```
+
