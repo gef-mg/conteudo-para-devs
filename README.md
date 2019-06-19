@@ -1,4 +1,4 @@
-# conteudo-para-devs
+# Conteudo-para-devs-front-end
 
 ## Aqui pode ser encontrados materiais de estudo
 
